@@ -1,2 +1,2 @@
 # CP-World
-CP- COOL PROBLEMS
+  CP stands for Cool problems.
